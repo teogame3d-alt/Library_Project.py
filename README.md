@@ -73,3 +73,7 @@ digital-library/
 - `library_data.json` can be edited to preload a custom catalog.
 - The app starts with a small demo dataset for quick validation.
 
+
+## Mentor Notes
+See docs/MENTOR_NOTES.md for technical rationale, build-vs-polish context, and learning notes.
+
